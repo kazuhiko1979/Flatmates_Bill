@@ -46,7 +46,7 @@ marry = Flatmate(name='Marry', days_in_house=25)
 
 
 print("John pays:", john.pays(bill=bill, flatmate2=marry))
-print("Marry pays:", marry.pays(bill=bill, flatmate2=john))
+# print("Marry pays:", marry.pays(bill=bill, flatmate2=john))
 
 
 
